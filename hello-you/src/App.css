@@ -1,0 +1,25 @@
+body{
+  margin: 25px;
+  background: #114B5F;
+  color: azure;
+}
+
+.bio{
+  max-width: 800px;
+  margin: 25px auto;
+  text-align: center;
+}
+
+.title{
+  transition: all 1s ease;
+}
+
+.title:hover{
+  color: #F45B69;
+  cursor: pointer;
+}
+
+.bio-text{
+  text-align: left;
+}
+
